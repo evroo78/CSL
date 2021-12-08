@@ -19,29 +19,29 @@
   <locale>
     <terms>
       <term name="et-al-none"/>
-      <term name="editor">ред. </term>
-      <term name="et-al"> та ін.</term>
+      <term name="editor">Ed. </term>
+      <term name="et-al"> at al.</term>
       <term name="page" form="short">
-        <single>С. </single>
-        <multiple>С. </multiple>
+        <single>P. </single>
+        <multiple>P. </multiple>
       </term>
       <term name="number-of-pages">
-        <single> с.</single>
-        <multiple> с.</multiple>
+        <single> p.</single>
+        <multiple> p.</multiple>
       </term>
-      <term name="volume" form="short">Вип. </term>
+      <term name="volume" form="short">Vol. </term>
       <term name="issue" form="short">№ </term>
       <term name="editor" form="short">
-        <single>ред. </single>
-        <multiple>ред. </multiple>
+        <single>Ed. </single>
+        <multiple>Ed. </multiple>
       </term>
       <term name="translator" form="short">
-        <single>пер. </single>
-        <multiple>пер. </multiple>
+        <single>transl. </single>
+        <multiple>transl. </multiple>
       </term>
       <term name="editortranslator" form="short">
-        <single>ред. і пер.</single>
-        <multiple>ред. і пер. </multiple>
+        <single>Ed. and transl.</single>
+        <multiple>Ed. and transl. </multiple>
       </term>
     </terms>
   </locale>
